@@ -1,4 +1,4 @@
-# simple-dll-injector
+# Simple DLL injector
 
 A simple Windows DLL injector built as a learning project, using the classic `CreateRemoteThread` + `LoadLibraryW` technique.
 
